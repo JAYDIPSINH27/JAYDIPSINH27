@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Next.js, TypeScript,Rust, Django, AI/ML, Blender.**
 
-- 👨‍💻 All of my projects are available at my [**Portfolio**]([https://jaydipsinh-padhiyar.netlify.app/](https://jaydipsinh.netlify.app/))
+- 👨‍💻 All of my projects are available at my [**Portfolio**](https://jaydipsinh.netlify.app/)
 
 - 📝 I regularly write articles on [**Medium**](https://medium.com/@jaydipadhiyar27)
 
