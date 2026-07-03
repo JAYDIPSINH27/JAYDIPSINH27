@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Next.js, TypeScript,Rust, Django, AI/ML, Blender.**
 
-- 👨‍💻 All of my projects are available at my [**Portfolio**](https://jaydipsinh-padhiyar.netlify.app/)
+- 👨‍💻 All of my projects are available at my [**Portfolio**]([https://jaydipsinh-padhiyar.netlify.app/](https://jaydipsinh.netlify.app/))
 
 - 📝 I regularly write articles on [**Medium**](https://medium.com/@jaydipadhiyar27)
 
@@ -22,7 +22,6 @@
 
 - 📫 How to reach me: **jaydipadhiyar27@gmail.com**
 
-- 📄 Know about my experiences: [**Resume**](https://drive.google.com/file/d/1wztcUdY_Aeoq3TXyBUoTklXmWeQvrTLK/view?usp=share_link)
 
 - ⚡ Fun fact: **Our Brain has named itself.**
 
